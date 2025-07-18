@@ -1,7 +1,7 @@
 # jaquinas
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B3C49&height=200&section=header&text=Eve%20Oliveira%20∇&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B3C49&height=200&section=header&text=Ivy%20∇&fontSize=40&fontColor=ffffff" />
 </p>
 
 <p align="center">
